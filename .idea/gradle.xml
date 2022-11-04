@@ -18,6 +18,20 @@
             <option value="$PROJECT_DIR$/Topics/Image colors/Theory" />
             <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing two lines" />
             <option value="$PROJECT_DIR$/Topics/Image libraries/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Accordance" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Corners" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Cube of zeros" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Initialization rules" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Shapeshifter" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Corners" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Cube of zeros" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Kotlin lists" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
