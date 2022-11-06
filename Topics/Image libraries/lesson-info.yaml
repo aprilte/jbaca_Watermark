@@ -3,3 +3,9 @@ content:
 - Drawing two lines
 - Drawing a polygon
 - Supported formats
+- Drawing four circles
+- Raster Images
+- Color encoding
+- Representing images in Kotlin
+- Drawing a red square
+- Drawing three strings
