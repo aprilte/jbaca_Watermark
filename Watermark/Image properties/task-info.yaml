@@ -134,9 +134,9 @@ files:
 - name: src/watermark/testImageCirc.png
   visible: true
   learner_created: true
-feedback_link: https://hyperskill.org/projects/222/stages/1112/implement#comment
+feedback_link: https://hyperskill.org/learn/step/17145#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: Sun, 13 Nov 2022 01:18:26 UTC
-record: -1
+record: 1

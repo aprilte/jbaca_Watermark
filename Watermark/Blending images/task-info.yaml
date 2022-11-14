@@ -527,6 +527,9 @@ files:
 - name: test/watermark2.png
   visible: false
   learner_created: false
-feedback_link: https://hyperskill.org/projects/222/stages/1113/implement#comment
+- name: src/watermark/testImageCirc.png
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/17146#comment
 status: Unchecked
 record: -1

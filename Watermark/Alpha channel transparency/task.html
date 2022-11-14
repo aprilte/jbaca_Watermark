@@ -1,4 +1,4 @@
-<html><body><h5 id="description">Description</h5>
+<h5 id="description">Description</h5>
 <p>In the previous stage, we've learned how to blend two images. Technically speaking, it is not true watermarking, as, in genuine watermarking, only a part of a watermark image (a logo or text) is blended with the original image. In this stage, we will use the alpha channel to achieve this.</p>
 <p>If an image uses the alpha channel, then its <code class="java">transparency</code> property is set to <code class="java">TRANSLUCENT</code>. An alpha channel can take 256 different transparency values for every pixel, but in most cases, it is used with only two values — <code class="java">0</code> and <code class="java">255</code>. This happens because we are interested in only two states — <strong>opaque</strong> or <strong>total transparent</strong> (<code class="java">255</code> and <code class="java">0</code>, respectively).</p>
 <p>If an image is using the alpha channel, then the <code class="java">Color</code> for each pixel should be read as:</p>
@@ -55,4 +55,4 @@ Input the watermark transparency percentage (Integer 0-100):
 &gt; 20
 Input the output image filename (jpg or png extension):
 &gt; output.png
-The watermarked image output.png has been created.</code></pre></body></html>
+The watermarked image output.png has been created.</code></pre>
