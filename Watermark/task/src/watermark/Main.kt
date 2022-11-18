@@ -8,6 +8,7 @@ import javax.imageio.ImageIO
 fun main() {
     val ins = imgLoader()
     ins.inspect()
+
 }
 
 class imgLoader() {
