@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun validatePassword(password: String): Boolean {
+        // write your code here
+
+    }
+
+    // do not change the code below
+    fun main() {
+        var validationResult = false
+        while (!validationResult) {
+            val password = readln()
+            validationResult = validatePassword(password)
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20632#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+  time: Sat, 19 Nov 2022 17:42:04 UTC
+record: -1
